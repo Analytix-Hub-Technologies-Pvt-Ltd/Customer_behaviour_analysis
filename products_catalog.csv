@@ -1,0 +1,201 @@
+category,product,price_inr
+electronics_and_accessories,Smartphone (mid-range),29999
+electronics_and_accessories,Bluetooth Earbuds,1499
+electronics_and_accessories,Smartwatch,2499
+electronics_and_accessories,Power Bank,1499
+electronics_and_accessories,Charging Cable,449
+electronics_and_accessories,Phone Case,499
+electronics_and_accessories,Screen Protector,299
+electronics_and_accessories,Wireless Charger,1999
+electronics_and_accessories,Laptop Bag,1499
+electronics_and_accessories,Bluetooth Speaker,2499
+electronics_and_accessories,Wired Headphones,999
+electronics_and_accessories,USB Flash Drive (32GB),699
+electronics_and_accessories,Portable Hard Drive (1TB),3999
+electronics_and_accessories,Webcam,1499
+electronics_and_accessories,Laptop Cooling Pad,1299
+electronics_and_accessories,Fitness Tracker,2999
+electronics_and_accessories,Action Camera,9999
+electronics_and_accessories,VR Accessory,3999
+electronics_and_accessories,Gaming Keyboard,4499
+electronics_and_accessories,Car Bluetooth FM Transmitter,999
+fashion_and_apparel,Men T-Shirt,799
+fashion_and_apparel,Women Top,999
+fashion_and_apparel,Kurti,1299
+fashion_and_apparel,Jeans,1899
+fashion_and_apparel,Leggings,799
+fashion_and_apparel,Women Dress,1499
+fashion_and_apparel,Casual Shirt,1299
+fashion_and_apparel,Formal Shirt,1799
+fashion_and_apparel,Shorts / Skirt,799
+fashion_and_apparel,Scarf / Stole,499
+fashion_and_apparel,Socks,199
+fashion_and_apparel,Innerwear Set,699
+fashion_and_apparel,Jacket / Hoodie,2499
+fashion_and_apparel,Nightwear Set,999
+fashion_and_apparel,Activewear,999
+fashion_and_apparel,Kids T-Shirt,499
+fashion_and_apparel,Saree,1499
+fashion_and_apparel,Tie & Belt Set,699
+fashion_and_apparel,Cap / Hat,399
+fashion_and_apparel,Kids Ethnic Wear,899
+footwear,Casual Sneakers,2499
+footwear,Formal Shoes,2999
+footwear,Sports Shoes,3499
+footwear,Sandals / Slippers,999
+footwear,Flip Flops,399
+footwear,Loafers,2499
+footwear,Boots,4999
+footwear,Canvas Shoes,1499
+footwear,Kids Sandals,899
+footwear,Slip Ons,1199
+footwear,Ballet Flats,1799
+footwear,Heels,1999
+footwear,Mules / Clogs,1499
+footwear,Trekking Shoes,4499
+footwear,Sock Shoes,1299
+footwear,School Shoes,1199
+footwear,Sports Sandals,1999
+footwear,Orthopedic Shoes,3499
+footwear,Leather Footwear,3499
+footwear,Slides,799
+grocery_and_fmcg,Rice (1kg),50
+grocery_and_fmcg,Wheat Flour (1kg),36
+grocery_and_fmcg,Sugar (1kg),40
+grocery_and_fmcg,Salt (1kg),16
+grocery_and_fmcg,Cooking Oil (1L),180
+grocery_and_fmcg,Tea Pack,200
+grocery_and_fmcg,Coffee Pack,300
+grocery_and_fmcg,Biscuits Pack,28
+grocery_and_fmcg,Chips Pack,45
+grocery_and_fmcg,Mineral Water (1L),20
+grocery_and_fmcg,Instant Noodles,30
+grocery_and_fmcg,Sauce Bottle,120
+grocery_and_fmcg,Breakfast Cereal,150
+grocery_and_fmcg,Milk (1L),60
+grocery_and_fmcg,Pulses (1kg),88
+grocery_and_fmcg,Packed Juice,120
+grocery_and_fmcg,Tea/Coffee Sachet,10
+grocery_and_fmcg,Premium Biscuits,120
+grocery_and_fmcg,Bread Loaf,30
+grocery_and_fmcg,Eggs (12 pcs),75
+home_and_kitchen,Non-Stick Frying Pan,1299
+home_and_kitchen,Pressure Cooker (3L),2499
+home_and_kitchen,Mixer Grinder,3999
+home_and_kitchen,Electric Kettle,1799
+home_and_kitchen,Induction Cooktop,2999
+home_and_kitchen,Gas Stove (2 Burner),3499
+home_and_kitchen,Dinner Set (24 Pieces),2999
+home_and_kitchen,Water Purifier (Non-Electric),2499
+home_and_kitchen,Kitchen Storage Container Set,1999
+home_and_kitchen,Knife Set,1499
+home_and_kitchen,Microwave Oven,6999
+home_and_kitchen,Rice Cooker,2499
+home_and_kitchen,Electric Chimney,10999
+home_and_kitchen,Hand Blender,1799
+home_and_kitchen,Toaster,1999
+home_and_kitchen,Dish Drying Rack,1499
+home_and_kitchen,Thermos Flask,1299
+home_and_kitchen,Water Bottle Set (Steel),999
+home_and_kitchen,Spice Box (Masala Dabba),899
+home_and_kitchen,Chopping Board,599
+baby_and_kids,Baby Diapers Pack,899
+baby_and_kids,Baby Wipes,249
+baby_and_kids,Baby Shampoo,299
+baby_and_kids,Baby Lotion,349
+baby_and_kids,Baby Soap,149
+baby_and_kids,Baby Feeding Bottle,399
+baby_and_kids,Baby Food Cereal,499
+baby_and_kids,Baby Stroller,6999
+baby_and_kids,Baby Cradle,5499
+baby_and_kids,Baby Carrier,2499
+baby_and_kids,Kids School Bag,1299
+baby_and_kids,Kids Water Bottle,399
+baby_and_kids,Kids Lunch Box,499
+baby_and_kids,Kids Story Books Set,799
+baby_and_kids,Kids Toy Set,999
+baby_and_kids,Kids Cycle,5999
+baby_and_kids,Kids Clothing Set,1499
+baby_and_kids,Baby Bath Tub,1999
+baby_and_kids,Baby Mosquito Net,999
+baby_and_kids,Kids Shoes,1299
+fitness_and_health,Yoga Mat,999
+fitness_and_health,Dumbbells Set,2499
+fitness_and_health,Resistance Bands Set,899
+fitness_and_health,Skipping Rope,399
+fitness_and_health,Treadmill (Manual),18999
+fitness_and_health,Exercise Cycle,14999
+fitness_and_health,Foam Roller,799
+fitness_and_health,Ab Roller,699
+fitness_and_health,Kettlebell,1799
+fitness_and_health,Pull-Up Bar,1999
+fitness_and_health,Fitness Tracker Band,2499
+fitness_and_health,Digital Weighing Scale,1299
+fitness_and_health,Blood Pressure Monitor,1999
+fitness_and_health,Protein Powder,2999
+fitness_and_health,Multivitamin Supplements,899
+fitness_and_health,Posture Corrector Belt,999
+fitness_and_health,Hand Grip Strengthener,299
+fitness_and_health,Massage Gun,6999
+fitness_and_health,Ankle Weights Set,1499
+fitness_and_health,Hot & Cold Gel Pack,499
+beauty_and_personal_care,Face Wash,249
+beauty_and_personal_care,Moisturizer Cream,399
+beauty_and_personal_care,Sunscreen SPF 50,499
+beauty_and_personal_care,Shampoo,399
+beauty_and_personal_care,Conditioner,349
+beauty_and_personal_care,Hair Oil,299
+beauty_and_personal_care,Body Lotion,349
+beauty_and_personal_care,Soap Bar Pack,199
+beauty_and_personal_care,Deodorant Spray,249
+beauty_and_personal_care,Perfume,1499
+beauty_and_personal_care,Lipstick,599
+beauty_and_personal_care,Compact Powder,399
+beauty_and_personal_care,Kajal / Eyeliner,299
+beauty_and_personal_care,Face Serum,699
+beauty_and_personal_care,Hair Straightener,2499
+beauty_and_personal_care,Hair Dryer,1999
+beauty_and_personal_care,Beard Trimmer,1499
+beauty_and_personal_care,Shaving Kit,799
+beauty_and_personal_care,Makeup Brush Set,999
+beauty_and_personal_care,Nail Grooming Kit,699
+books_and_stationery,Notebook (200 Pages),120
+books_and_stationery,Ball Pen Pack,150
+books_and_stationery,Gel Pen Pack,199
+books_and_stationery,Pencil Box Set,249
+books_and_stationery,School Backpack,1299
+books_and_stationery,Office File Folder,299
+books_and_stationery,Sticky Notes Pack,199
+books_and_stationery,Highlighter Set,249
+books_and_stationery,Desk Organizer,799
+books_and_stationery,Whiteboard with Marker,1499
+books_and_stationery,Calculator,599
+books_and_stationery,Diary / Planner,399
+books_and_stationery,Art Color Set,499
+books_and_stationery,Drawing Book,199
+books_and_stationery,Stapler with Pins,299
+books_and_stationery,Printer Paper (A4 Pack),399
+books_and_stationery,Glue Stick Pack,149
+books_and_stationery,Eraser Pack,99
+books_and_stationery,Marker Pen Set,349
+books_and_stationery,Exam Pad,249
+home_furnishing,Bedsheet (Double),1499
+home_furnishing,Pillow Set,999
+home_furnishing,Curtains Set,1999
+home_furnishing,Sofa Cushion Set,1299
+home_furnishing,Floor Mat,899
+home_furnishing,Door Mat,499
+home_furnishing,Blanket,2499
+home_furnishing,Rug / Carpet,3999
+home_furnishing,Table Cloth,599
+home_furnishing,Chair Cover Set,1499
+home_furnishing,Mattress Protector,1799
+home_furnishing,Window Blinds,2999
+home_furnishing,Bath Towel Set,999
+home_furnishing,Cushion Covers,799
+home_furnishing,Wall Tapestry,1299
+home_furnishing,Laundry Basket,899
+home_furnishing,Ironing Board,2499
+home_furnishing,Shoe Rack,3999
+home_furnishing,Wardrobe Organizer,1999
+home_furnishing,Foldable Storage Box,1499
